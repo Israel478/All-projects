@@ -23,3 +23,15 @@
 .background { background-color: rgba(184, 173, 16, 0.993);
 
 }
+h1{
+  font-size: 50px;
+  font-family: cursive;
+  background-color: lightgrey;
+  color: aquamarine;
+}
+strong{
+  font-size: 100px;
+  font-family: fantasy;
+  background-color: dimgrey;
+  color: darkolivegreen;
+}
